@@ -17,8 +17,8 @@ public class JDCSelectionItem {
 		// localhost:3306 = url and port
 		// stock = conrete database
 		String url = "jdbc:mysql://localhost:3306/stock";
-		String username = "root";
-		String password = "9403017734.Ea464163";
+		String username = "****";
+		String password = "****************";
 		String insertName;
 		Scanner scanner = new Scanner(System.in);
 		// 1. create a connection to DB
